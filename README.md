@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Srivastava</h1>
 <h3 align="center">I'm a BTech student passionate about Machine Learning and proficient in Web Development. I love building intelligent systems, exploring data-driven solutions, and crafting scalable web applications.</h3>
 
-- 🔬 I’m currently working on [e-commerce website with trial room](https://e-commerce-celeste-n.vercel.app/)
+- 🔬 I’m currently working on [e-commerce website with virtual trial room](https://e-commerce-celeste-n.vercel.app/)
 - 🌱 I’m currently learning **Machine Learning**
 - 💌 How to reach me **shwsrivastava07@gmail.com**
 
