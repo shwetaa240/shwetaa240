@@ -3,7 +3,7 @@
 
 ---
 
-- 👀 Portfolio: Creations[https://shweta-creations.vercel.app/]
+- 👀 Portfolio: [Creations](https://shweta-creations.vercel.app/)
 - 🌱 Learning **Machine Learning**
 - 💌 Reach me at: **shwsrivastava07@gmail.com**
 
