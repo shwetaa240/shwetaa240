@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shweta Srivastava</h1>
-<h3 align="center">BTech student | Machine Learning enthusiast | Web Developer</h3>
+<h3 align="center">BTech student | AI enthusiast | Web Developer</h3>
 
 ---
 
 - 👀 Portfolio: [Creations](https://shweta-creations.vercel.app/)
-- 🌱 Learning **Machine Learning**
+- 🌱 Learning **Artificial Intelligence**
 - 💌 Reach me at: **shwsrivastava07@gmail.com**
 
 ---
