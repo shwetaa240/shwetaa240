@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- GLITCH BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHWETA.EXE&fontSize=70&fontColor=00ffe7&animation=fadeIn&fontAlignY=38&desc=FULLSTACK+ENGINEER+%7C+ML+ARCHITECT+%7C+CODE+ALCHEMIST&descSize=14&descAlignY=58&descFontColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,35:00ffff,65:00bfff,100:1e90ff&height=200&section=header&text=SHWETA%20SRIVASTAVA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20%7C%20ML%20ENGINEER%20%7C%20CODE%20ALCHEMIST&descSize=16&descAlignY=58&descFontColor=e0f7ff" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2200&pause=700&color=00FFE7&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D+Loading+Shweta.exe...+%E2%9C%85;%3E+Mounting+React+%2B+Node.js+modules...+%E2%9C%85;%3E+Injecting+PyTorch+neural+cores...+%E2%9C%85;%3E+Unlocking+final+boss+mode...+%F0%9F%94%93;%3E+SELECT+*+FROM+skills+WHERE+passion+IS+TRUE%3B;%3E+Player+1+is+ONLINE.+%F0%9F%8E%AE+GG+LET%27S+GO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2200&pause=700&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=404%3A+Sleep+not+found+%F0%9F%92%80;Training+models+%3E+training+myself+%F0%9F%A7%A0;Loading...+skills.exe+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,20 +23,19 @@
 
 ## `> whoami`
 
-<img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
+<img align="right" alt="AI Coding" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ```js
 ╔══════════════════════════════════════════════════════════╗
-║              PLAYER PROFILE — SHWETA SRIVASTAVA          ║
+║            PLAYER PROFILE — SHWETA SRIVASTAVA            ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  class       :  Fullstack Dev + ML Engineer  🧠          ║
-║  currentQuest:  "Mastering the AI Endgame"   🎯          ║
-║  weapons     :  React ⚛️  Node.js 🟢  PyTorch🔥  Py🐍  ║
-║  xpLevel     :  RISING HERO  ↑↑↑                        ║
-║  openTo      :  Collabs 🤝  Projects 💡  Internships 🚀  ║
-║  superpower  :  "I build the web by day,                 ║
-║                  train models by night." 🌙              ║
+║  class       : Fullstack Dev + ML Engineer               ║
+║  currentQuest: Mastering AI Systems                      ║
+║  level       : Rising Coder ↑                            ║
+║  openTo      : Collabs | Projects | Internships          ║
+║  ability     : Build • Train • Optimize                  ║
+║  fact        : Commits > Sleep                           ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -167,7 +166,7 @@ echo "🔓 NEXT MILESTONE: Dream internship incoming 🚀"
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,35:00ffff,65:00bfff,100:1e90ff&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
   <sub>⚡ Coded with caffeine + curiosity ✨</sub>
