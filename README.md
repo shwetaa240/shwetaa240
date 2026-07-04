@@ -43,7 +43,7 @@
 - 🎮 Currently grinding: **AI/ML + Full-Stack Projects**
 - ⚔️ On a mission to build apps that **actually matter**
 - 🧩 Love solving complex problems with clean code
-- 🌐 Portfolio → **[shweta-creations.vercel.app](https://shweta-creations.vercel.app/)**
+- 🌐 Portfolio → **[shweta.me]([https://shweta-creations.vercel.app/](https://www.shwetaa.me/))**
 - 📬 Drop a message → **shwsrivastava07@gmail.com**
 - ⚡ Fun fact: My commit messages are better than my sleep schedule
 
